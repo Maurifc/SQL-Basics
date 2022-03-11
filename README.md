@@ -52,3 +52,9 @@ SELECT * FROM Inventory WHERE quantity > 152;
 GO
 ```
 
+## Sample Database
+Load a [sample database](sample database/README.md) to practice
+
+
+## Reference
+<https://www.sqlservertutorial.net/>
